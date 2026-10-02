@@ -1,0 +1,6 @@
+openai
+google-genai
+google-generativeai
+gspread
+google-auth
+python-dotenv
